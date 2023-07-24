@@ -1,2 +1,2 @@
 # Carrito-de-compras
-React, Vite, JavasCript
+React, Vite, JavaScript
